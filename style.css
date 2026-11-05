@@ -1,0 +1,5 @@
+body{font-family:system-ui,sans-serif;max-width:860px;margin:2rem auto;padding:0 1rem;line-height:1.55;color:#222}
+h1{font-size:1.8rem}table{border-collapse:collapse;width:100%;font-size:.93rem}
+th,td{border:1px solid #ddd;padding:.5rem;vertical-align:top;text-align:left}th{background:#f4f4f4}
+.cta{background:#f0f7f0;border:1px solid #cde3cd;padding:1rem;border-radius:6px;margin:2rem 0}
+small,.muted{color:#666}a{color:#0a58ca}
