@@ -1,0 +1,2 @@
+# Mileage & expense trackers research
+Checked 2026-11-10 (America/New_York) via WebSearch/WebFetch, all 10 listed URLs returned HTTP 200. Dropped: Vertex42 mileage log (404 at guessed URL), Bonsai expense tracker (page content dated 2021, gating unclear, heavy trial upsell), Penny & Pencil (appears to be a paid bundle), Sheetful (pricing unconfirmed), UK/AU-only templates (SnapBooks HMRC, Business Accounting Basics, Driversnote AU).
