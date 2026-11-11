@@ -1,0 +1,3 @@
+# Timesheets & employee schedules research
+Checked 2026-11-11 (America/New_York) via WebSearch/WebFetch/curl. Listed 10: Chronotek, QuickBooks, Honest Day, Workotick, Vertex42 (timesheets); HiveDesk, ClockIt, Fit Small Business, EpicShifts, Tickin (schedules). QuickBooks/Workotick time out for curl but loaded via WebFetch. Dropped: Xero (email form gate + trial push), Vertex42 work-schedule (404 at guessed URL), Smartsheet (404 at guessed URL), Microsoft Create (not reviewed in detail).
+Recordkeeping note based on DOL Fact Sheet 21 (FLSA): hours per workday/workweek; payroll records 3 yrs, time cards 2 yrs; OT 1.5x over 40/workweek.
